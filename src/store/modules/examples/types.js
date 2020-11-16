@@ -1,0 +1,16 @@
+const LOADING = 'examples/LOAD';
+const LOAD_SUCCESSED = 'examples/LOAD_SUCCESSED';
+const LOAD_FAILED = 'examples/LOAD_FAILED';
+
+const FETCH_DATA = 'examples/FETCH_DATA';
+const FETCH_DATA_SUCCESSED = 'examples/FETCH_DATA_SUCCESSED';
+const FETCH_DATA_FAILED = 'examples/FETCH_DATA_FAILED';
+
+export default {
+    LOADING,
+    LOAD_SUCCESSED,
+    LOAD_FAILED,
+    FETCH_DATA,
+    FETCH_DATA_SUCCESSED,
+    FETCH_DATA_FAILED
+}
